@@ -1,5 +1,81 @@
 #EXTM3U
-#EXTINF:- ASIAN TV
+#EXTINF:-1,ASIAN TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-2,ATN BANGLA
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-3,BANGLA TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-4,BIJOY TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-5,CHANNEL I
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#EXTINF:-6,CHANNEL 9
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
+#EXTINF:-7,DBC NEWS
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-8,DIPTO TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-9,DGI BANGLA
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-10,EKUSHEY TV
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-11,JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-12,MY TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:-13,NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:-14,NAGORIK
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-15,RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-16,&TV
+http://10.16.100.204/hls/&tv.m3u8
+#EXTINF:-17,COLORS
+http://10.16.100.201/hindi/colorsin.m3u8
+#EXTINF:-18,SONY TV
+http://10.16.100.204/hls/sony_tv_720.m3u8
+#EXTINF:-19,STAR PLUS
+http://10.16.100.204/hls/star_plus.m3u8
+#EXTINF:-20,ZEE TV
+http://10.16.100.204/hls/Zee_TV_720.m3u8
+#EXTINF:-21,AKASH ATTH
+http://10.16.100.204/hls/akash_aath_720.m3u8
+#EXTINF:-22,COLORS BANGLA
+http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-23,STAR JALSHA
+http://10.16.100.204/hls/star_jalsha.m3u8
+#EXTINF:-24,ZEE BANGLA
+http://10.16.100.204/hls/zee_bangla_720.m3u8
+#EXTINF:-25,& PICTURES
+http://10.16.100.204/hls/&_pic.m3u8
+#EXTINF:-26,WOW CINEMA
+http://10.16.100.201/hindi/wow_cinema.m3u8
+#EXTINF:-27,9XM
+http://10.16.100.204/hls/9xm_720.m3u8
+#EXTINF:-28,DHOOM
+http://10.16.100.201/hindi/dhoom_music.m3u8
+#EXTINF:-29,MASTI
+http://10.16.100.207:8082/sports/mtuness.m3u8
+#EXTINF:-30,SANGGET BANGLA
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-31,PEACETV
+http://10.16.100.207:8082/sports/peacetv.m3u8
+#EXTINF:-32,SONY TEN 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:-33,STAR SPORTS 2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-34,STAR SPORTS 1
+http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-35,STAR SPORTS 3
+ttp://10.16.100.207:8082/sports/ssselect2.m3u8
+#EXTINF:-36,GTV
+http://172.16.29.28/hls/sports1.m3u8
+#EXTINF:-37,NEWS24
+http://103.107.160.20:8081/amrbd/news24/chunks.m3u8?nimblesessionid=8768
+#EXTINF:-38,STAR SPORTS HD 1
+http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8?nimblesessionid=8769
+#EXTINF:-39,GTVHD
+http://103.107.160.20:8081/amrbd/discovery/chunks.m3u8?nimblesessionid=8771
 
 
