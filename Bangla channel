@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,A
+https://edge4.bioscopelive.com/hls/anonymous/qMzRpMh8Nbq3i454TB204g/1603029416/rtv_low/index.m3u8
+#EXTINF:-2,B
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-3,C
+https://tempx.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8?nimblesessionid=76349857&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMCAxOjI3OjQ0IFBNJmhhc2hfdmFsdWU9cEgvSXRjNUNadmRRN2haZ3hYMGRWQT09JnZhbGlkbWludXRlcz01MCZpZD01
