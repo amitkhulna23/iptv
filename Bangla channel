@@ -85,7 +85,45 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-43,NRB Connect
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
-
-
+#EXTINF:-1,EKATTOR TV HD [BD]
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
+#EXTINF:-1,JAMUNA TV [BD]
+http://103.102.136.106:8080/cmcltv/jamuna.m3u8
+#EXTINF:-1,NEWS 24 HD [BD]
+http://103.102.136.106:8080/cmcltv/news24.m3u8
+#EXTINF:-1,DBC NEWS HD [BD]
+http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
+#EXTINF:-1,DURONTO TV [BD]
+http://103.102.136.106:8080/cmcltv/duronto.m3u8
+#EXTINF:-1,COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+#EXTINF:-1,Sony Aath [IN] (1)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:-1,CHANNEL 9 HD [BD]
+http://103.102.136.106:8080/cmcltv/channel9.m3u8
+#EXTINF:-1,GAZI TV HD [BD]
+http://103.102.136.106:8080/cmcltv/gtv.m3u8
+#EXTINF:-1,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/1.m3u8
+#EXTINF:-1,Thai News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1,Thai News1
+http://news1.live14.com/stream/news1_low.m3u8
+#EXTINF:-1,Thai News 1
+http://news1.live14.com/stream/news1_mid.m3u8
+#EXTINF:-1, & PICTURE MOVIE
+http://103.211.185.98:8082/100/index.m3u8?token=464ef04907c0152618585c8add0301ff492f89b0-b762442f7401812624c3366d27e9e4c0-1603224785-1603213985&remote=103.143.0.18
+#EXTINF:-1, SONY MAX HD
+http://103.211.185.98:8082/77/index.m3u8?token=b32452dddb6969c2915638165793a5ad53cb3ad6-34860680bb89d916ed0da14c0f81fd49-1603225219-1603214419&remote=103.143.0.18
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
 
 
