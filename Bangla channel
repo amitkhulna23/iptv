@@ -115,10 +115,14 @@ http://news1.live14.com/stream/news1_mid.m3u8
 http://103.211.185.98:8082/100/index.m3u8?token=464ef04907c0152618585c8add0301ff492f89b0-b762442f7401812624c3366d27e9e4c0-1603224785-1603213985&remote=103.143.0.18
 #EXTINF:-1, SONY MAX HD
 http://103.211.185.98:8082/77/index.m3u8?token=b32452dddb6969c2915638165793a5ad53cb3ad6-34860680bb89d916ed0da14c0f81fd49-1603225219-1603214419&remote=103.143.0.18
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
+#EXTINF:-1,somoy tv
+https://www.youtube.com/watch?v=KgiwN7ddb2U
+#EXTINF:-1, channel 24
+https://www.youtube.com/watch?v=dX3nC8yqBFo
+#EXTINF:-1, tom news
+https://www.youtube.com/watch?v=9gds7LiEsfg
+#EXTINF:-1, republic bharat
+https://www.youtube.com/watch?v=msJyM-2pUN8
 #EXTINF:-1
 #EXTINF:-1
 #EXTINF:-1
