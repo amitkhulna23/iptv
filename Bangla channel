@@ -5,10 +5,16 @@ http://10.16.100.203:8082/bangla/tv_asian.m3u8
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-3,BANGLA TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-3,BANGLA VISION
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 #EXTINF:-4,BIJOY TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-5, BOISHAKHI TV
+http://10.16.100.205/hls/boishakhi_720.m3u8
 #EXTINF:-5,CHANNEL I
 http://10.16.100.203:8082/bangla/i_Channel.m3u8
+#EXTINF:-5,MOHONA
+http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:-6,CHANNEL 9
 http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 #EXTINF:-7,DBC NEWS
@@ -18,8 +24,8 @@ http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-9,DGI BANGLA
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:-10,EKUSHEY TV
-http://10.16.100.203:8082/bangla/digibangla24.m3u8
-#EXTINF:-11,JAMUNA TV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-10,JAMUNA
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-12,MY TV
 http://10.16.100.205/hls/my_tv_720.m3u8
@@ -43,6 +49,8 @@ http://10.16.100.204/hls/Zee_TV_720.m3u8
 http://10.16.100.204/hls/akash_aath_720.m3u8
 #EXTINF:-22,COLORS BANGLA
 http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-21,SONY ATTH
+http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-23,STAR JALSHA
 http://10.16.100.204/hls/star_jalsha.m3u8
 #EXTINF:-24,ZEE BANGLA
