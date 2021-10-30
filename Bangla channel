@@ -18,6 +18,44 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 ch-id="GEO NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-p-96BAich6k/YStvYgLhigI/AAAAAAAAA9A/qiRfS_lVYD0DCAP8BPz3cR9D0I_YKSPbwCLcBGAsYHQ/s200/GEO_News_logo_in_Urdu.png"  group-title="Sneh HINDI",GEO NEWS (PK)
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
 
+#EXTINF:-1 ch-id="NATURESCAPE (US)" tvg-logo="https://1.bp.blogspot.com/-JM0EYqoS4AU/YStvneTDf3I/AAAAAAAAA9E/VoIMcyJxsHQD4N6qltbs6Dl7deIqKrTAACLcBGAsYHQ/s200/logo_20200709_232814.png"  group-title="Sneh ENGLISH",NATURESCAPE (US)
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+
+#EXTINF:-1 ch-id="GLOBAL NEWS (US)" tvg-logo="https://1.bp.blogspot.com/-gcDmqCVXvco/YStv6Yp72AI/AAAAAAAAA9Q/Y-V-20VYeSE3MMi8C2T4FZJgNEOFO_sVgCLcBGAsYHQ/s200/images%2B%25285%2529%25287%2529.jpeg"  group-title="Sneh ENGLISH",GLOBAL NEWS (US)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1 ch-id="COOKING PANDA (US)" tvg-logo="https://1.bp.blogspot.com/-kW5DSXXqAaE/YTc32CF3dJI/AAAAAAAAA_A/7sbkvgfRyx8HRsfeItFospHnIgdwYGL6wCLcBGAsYHQ/s200/download%2B%25281%2529.png"  group-title="Sneh ENGLISH",COOKING PANDA (US)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 ch-id="TIME LIFE (UK)" tvg-logo=" "  group-title="Sneh ENGLISH",TIME LIFE (US)
+http://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist.m3u8
+
+#EXTINF:-1 ch-id="CARTOON (UK)" tvg-logo=" "  group-title="Sneh ENGLISH",CARTOON (UK)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 ch-id=" (UK)" tvg-logo=" "  group-title="Sneh ENGLISH", (UK)
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+
+#EXTINF:-1 ch-id="ABC 15 (US)" tvg-logo=" "  group-title="Sneh ENGLISH",ABC 15 (US)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+#EXTINF:-1 ch-id=" (US)" tvg-logo=" "  group-title="Sneh ENGLISH", (US)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1,Ekhusay TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1,Channel S
+http://str24.l9574.com/519.stream/index.m3u8
+
+#EXTINF:-1,Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 
 
